@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.6.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B3329151-1FB1-4A4E-92C2-75A51D45B12E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Eve", "src\Eve\Eve.fsproj", "{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Debug|x64.Build.0 = Debug|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Debug|x86.Build.0 = Debug|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Release|x64.ActiveCfg = Release|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Release|x64.Build.0 = Release|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Release|x86.ActiveCfg = Release|Any CPU
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0AEAF325-A9E6-44EF-B06C-9FBD5842B34C} = {B3329151-1FB1-4A4E-92C2-75A51D45B12E}
+	EndGlobalSection
+EndGlobal
